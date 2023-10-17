@@ -13,4 +13,4 @@ I've been getting some warnings about the AudioContext, saying it's not allowed 
 [AudioContextError/Warning](./audiocontext.png) 
 
 Playing Audio with Poly Synth on Sync 
-When I press play, it plays the tune but when I press the button again, it glitches out a bit and doesn't play until you refresh.
+When I press play, it plays the tune but when I press the button again, it glitches out a bit and doesn't play until you refresh. Maybe that's how it's susposed to be but it was able to play multiple times when I was doing just synth with one note playing.
